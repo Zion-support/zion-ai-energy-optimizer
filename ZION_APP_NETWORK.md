@@ -6,6 +6,6 @@ Part of the **Zion AI App Network** — 678+ interlinked AI apps, tools and play
 - 🗂️ Directory: https://ziontechgroup.com/zion-app-network/
 - 🐙 Hub: https://github.com/Zion-support/zion-app-network
 - 🌐 Live app: https://ziontechgroup.com/zion-ai-energy-optimizer/
-- 🔗 Related: [Energy Usage Optimizer](https://ziontechgroup.com/energy-usage-optimizer/) · [Zion AI Green Scheduler](https://ziontechgroup.com/zion-ai-green-scheduler/) · [Discovery](https://ziontechgroup.com/discovery/)
+- 🔗 Related: [Zion AI Energy Sentinel](https://ziontechgroup.com/zion-ai-energy-sentinel/) · [Energy Usage Optimizer](https://ziontechgroup.com/energy-usage-optimizer/) · [Discovery](https://ziontechgroup.com/discovery/)
 
 © 2026 Zion Tech Group.
